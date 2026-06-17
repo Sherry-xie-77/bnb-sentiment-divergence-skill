@@ -1,0 +1,17 @@
+{
+  "name": "sentiment-divergence-skill",
+  "version": "1.0.0",
+  "description": "BNB Chain Sentiment Divergence Signal Skill - Track 2 AI Strategy Skill using CoinMarketCap telemetry",
+  "main": "dist/console-ui.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/console-ui.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "typescript": "^5.3.3"
+  }
+}

@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.neo/
+.runtime/
+trace.jsonl
+tmp/
+*.log
