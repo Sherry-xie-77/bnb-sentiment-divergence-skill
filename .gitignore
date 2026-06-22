@@ -6,3 +6,9 @@ dist/
 trace.jsonl
 tmp/
 *.log
+
+# Internal department state — not part of the public project
+RULES.md
+okr.json
+memory/
+tasks/
