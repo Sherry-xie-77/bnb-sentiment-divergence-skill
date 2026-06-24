@@ -2,8 +2,8 @@
 
 > **Track:** Track 2 — Strategy Skills
 > **GitHub:** https://github.com/Sherry-xie-77/bnb-sentiment-divergence-skill
-> **Demo Video:** `[PASTE_YOUR_VIDEO_LINK_HERE]` — upload to YouTube/Loom/Bilibili, then replace this placeholder
-> **Commit:** `2efdc2e` on `main`
+> **Demo Video:** https://youtu.be/-xUvpzNQjgc
+> **Commit:** `5bd10e9` on `main`
 
 ---
 
@@ -99,9 +99,9 @@ The terminal demo runs through four stages: (1) `find_skill` intent routing test
 
 ## Quick Checklist Before Submitting
 
-1. [ ] Record ≤3-minute demo video following `artifacts/bnb-recording-guide.md`
-2. [ ] Upload video to YouTube / Loom / Bilibili
-3. [ ] Replace `[PASTE_YOUR_VIDEO_LINK_HERE]` above with the actual video URL
+1. [x] Record ≤3-minute demo video following `artifacts/bnb-recording-guide.md`
+2. [x] Upload video to YouTube — https://youtu.be/-xUvpzNQjgc
+3. [x] Video link added to submission card above
 4. [ ] Register project on DoraHacks BUIDL platform
 5. [ ] Paste Project Name, Tagline, and Detailed Description into the form
 6. [ ] Check both Sponsor Technology boxes (CMC + BNB Chain)
